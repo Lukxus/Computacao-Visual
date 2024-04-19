@@ -1,0 +1,83 @@
+Agora que temos uma ideia do que é Computação Visual, faça uma pesquisa sobre aplicações de Computação Visual e, a partir do que você pesquisou, escolha pelo menos um exemplo de cada subárea (Computação Gráfica, Processamento de Imagens, Visão Computacional) que você gostou ou que chamou a sua atenção.
+
+Descreva cada aplicação entre 3-5 parágrafos ("começo, meio e fim"). Em seguida, explique porque você escolheu a aplicação.
+
+Lembre-se de incluir todas as referências consultadas (livros, links de artigos, vídeos, etc.).”
+
+Computação Gráfica:
+	
+A computação gráfica, uma disciplina que entrelaça arte, design e tecnologia, tem redefinido nossa percepção e interação com o universo visual. 
+No contexto dessa área, a Computer-Generated Imagery (CGI) emerge como uma ferramenta extraordinária, capacitando a criação e manipulação de imagens, 
+vídeos e ambientes virtuais por meio do poder computacional. A CGI transcende fronteiras, desempenhando um papel fundamental em setores variados, 
+desde a produção cinematográfica e animação até a simulação de fenômenos naturais, design de produtos e experiências de realidade virtual.
+
+De forma prática, a CGI abrange todo e qualquer tipo de imagem, especialmente em 3D, que não existe na "vida real", sendo gerada através de computadores. 
+Uma aplicação crescente da CGI é evidente em filmes e séries, onde os avanços tecnológicos têm aprimorado a geração de imagens e cenários, tornando-os cada 
+vez mais realistas ao longo do tempo. Essa evolução tem se refletido na indústria do entretenimento, onde a CGI é amplamente empregada para intensificar a 
+imersão e aprimorar a experiência do espectador.
+
+Ao nos concentrarmos especificamente no uso de CGI em filmes e séries, percebemos uma diversidade de aplicações. Um exemplo proeminente é a criação de "figuras virtuais", 
+como demonstrado no filme Jurassic Park, onde dinossauros foram inteiramente gerados por CGI. Essa franquia cinematográfica também serve como um marcador temporal 
+para avaliar o progresso da CGI ao longo dos anos. Além disso, a técnica do "tela verde" é comumente utilizada para gerar cenários ou incorporar elementos ao ambiente, 
+facilitando o processo de pós-processamento para adição ou remoção de objetos. Esse método é evidente em vários filmes, destacando-se em produções que exploram cenários 
+fantásticos, como o clássico Alice no País das Maravilhas.
+
+Em resumo, a CGI não apenas molda a estética visual contemporânea, mas também catalisa inovações constantes, enriquecendo nosso mundo visual de maneiras inimagináveis. 
+À medida que avançamos no século XXI, a computação gráfica torna-se um meio poderoso de expressão artística, revolucionando a narrativa visual em indústrias 
+que vão desde o entretenimento até a pesquisa científica. A capacidade da CGI de criar ambientes virtuais detalhados, personagens realistas e efeitos visuais 
+impressionantes não só eleva a qualidade estética de produções cinematográficas e televisivas, mas também impulsiona novas fronteiras de criatividade e experiência do 
+espectador. O constante aprimoramento dessa tecnologia não apenas alimenta o mundo do entretenimento, mas também permeia campos tão diversos quanto educação, 
+medicina e design, destacando a ubiquidade e o impacto duradouro da CGI em nosso cenário visual contemporâneo.
+
+Processamento de Imagens:
+
+O processamento de imagens de tomografia por satélite desempenha um papel crucial na análise e interpretação dos dados coletados por satélites para monitoramento da Terra. 
+Desde a aquisição até a aplicação final, este processo é fundamental para garantir a precisão e a utilidade dos dados obtidos.
+
+Inicialmente, os satélites capturam imagens em várias resoluções enquanto orbitam a Terra. Estas imagens passam por um rigoroso processo de pré-processamento, 
+que inclui correções radiométricas e geométricas para eliminar distorções atmosféricas e geográficas. Em seguida, são aplicados algoritmos avançados de 
+processamento de imagens para realçar características específicas da superfície terrestre, como vegetação, corpos d'água e estruturas urbanas, além de 
+detectar mudanças ao longo do tempo.
+
+No estágio final, as imagens processadas são utilizadas em uma variedade de aplicações, como monitoramento ambiental, planejamento urbano, gestão de recursos 
+naturais e previsão de desastres naturais. Esses dados são inestimáveis para cientistas e planejadores, proporcionando uma compreensão mais profunda das mudanças 
+ambientais e socioeconômicas em escala global.
+
+A importância dessa aplicação reside na crescente necessidade de monitorar e compreender as mudanças ambientais e as atividades humanas. O processamento de 
+imagens de tomografia por satélite oferece uma maneira eficaz de extrair informações significativas das vastas quantidades de dados coletados, permitindo uma 
+análise abrangente e uma tomada de decisão informada em uma variedade de campos, desde a gestão ambiental até o desenvolvimento urbano sustentável.
+
+Visão Computacional:
+
+A visão computacional é um campo da ciência da computação que utiliza a inteligência artificial para imitar as capacidades do cérebro humano no reconhecimento 
+e classificação de objetos em imagens e vídeos. Os modelos de IA são treinados com grandes em grandes conjuntos de dados visuais, permitindo que algoritmos de 
+machine learning identifiquem padrões comuns nesses dados. Por exemplo, ao processar milhões de imagens de carros, os computadores desenvolvem padrões que lhes 
+permitem identificar veículos com precisão em outras imagens.
+
+Os sistemas de visão computacional são alimentados por tecnologias avançadas, como inteligência artificial e machine learning, que capacitam os computadores a 
+reconhecer e interpretar dados visuais de maneira semelhante aos seres humanos. Esses sistemas podem ser treinados para identificar objetos específicos, reconhecer 
+rostos ou até mesmo analisar cenas complexas em tempo real. Através do uso dessas tecnologias, os computadores são capazes de extrair informações significativas de 
+imagens e vídeos para uma ampla gama de aplicações práticas.
+
+Ao imitar os processos cognitivos humanos, os sistemas de visão computacional conseguem realizar tarefas complexas de reconhecimento e interpretação visual. 
+Por meio de algoritmos sofisticados, esses sistemas identificam padrões e características em imagens e vídeos, permitindo a classificação precisa de objetos e a 
+compreensão do conteúdo visual. Essa capacidade torna a visão computacional uma ferramenta poderosa em várias áreas, incluindo segurança, medicina, automação 
+industrial e veículos autônomos.
+
+
+Referências:
+
+Azure Microsoft." Azure Microsoft, n.d. Web. https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-computer-vision#classificação-de-objeto.
+
+Amazon Web Services. "Amazon Web Services." Amazon Web Services, n.d. Web. https://aws.amazon.com/pt/what-is/computer-vision/#:~:text=da%20agricultura%20inteligente.-,Como%20funciona%20a%20visão%20computacional%3F,reconhecimento%20e%20classificação%20de%20objetos. 
+
+
+Hardware.com.br. “O que é CGI? 8 filmes que ficaram marcados pelo uso da computação gráfica” https://www.hardware.com.br/artigos/o-que-e-cgi-8-filmes-que-ficaram-marcados-pelo-uso-da-computacao-grafica/
+
+Podcast Canaltech “O que é CGI e computação gráfica?” https://arquivo.canaltech.com.br/software/O-que-e-CGI-e-computacao-grafica/
+
+Universidade Federal de Ouro Preto “Processamento de Imagens Fundamentos”
+http://www.decom.ufop.br/guillermo/BCC326/slides/Processamento-de-Imagens-Fundamentos.pdf
+
+Pix Force “O que é processamento digital de imagens”
+https://pixforce.ai/o-que-e-processamento-digital-de-imagens/

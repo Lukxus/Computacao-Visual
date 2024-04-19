@@ -1,0 +1,26 @@
+"O que você acha que verá na disciplina? Isto é, qual é a sua ideia de Computação Visual?
+Escrever no papel ou em um arquivo texto e guardar (será a primeira atividade online no Moodle."
+
+Luiz:
+Ao considerar Computação Visual, geralmente pensamos no processamento e manipulação de imagens, 
+explorando uma variedade de métodos para ajustes e transformações. No entanto, dada a sua posição 
+dentro do campo da Ciência da Computação, naturalmente também consideramos a importância da unidade 
+de processamento gráfico (GPU). Nossa expectativa é entender os processos de renderização, assim como 
+compreender o gerenciamento de memória e a otimização da paralelização necessária para tornar aplicativos 
+como jogos e editores de imagem viáveis e repletos de funcionalidades dentro do contexto computacional.
+
+Eduardo:
+Na disciplina de Computação Visual, espero explorar técnicas avançadas para aprimorar a qualidade de imagens, 
+corrigir imperfeições e ruídos, analisar padrões e interpretar informações visuais, além de estudar os fundamentos 
+da renderização de imagens.
+
+Lucas:
+Na minha concepção, na disciplina de computação visual iremos explorar técnicas de processamento e manipulação de imagens, 
+ajustes, transformações e qualidade visual. Pretendo compreender os processos de renderização, assim como desenvolver habilidades 
+para melhor uso de uma GPU, como gerenciamento de memória e otimização para aplicações práticas (principalmente jogos).
+
+Leonardo: 
+Acredito que Computação Visual seria a área da computação que estuda boas práticas relacionadas a elementos 
+gráficos, desde como implementá-los até como utilizá-los de maneira agradável para o usuário. Acredito ser 
+uma área fortemente relacionada a imagens, e com isso as possibilidades são variadas já que podemos ter 
+elementos 2D, 3D, com diferentes texturas e cores.
